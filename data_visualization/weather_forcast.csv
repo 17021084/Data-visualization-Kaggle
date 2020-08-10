@@ -1,0 +1,15 @@
+stt,outlook,temperature,hummidty,windy,play
+0,sunny,85,85,FALSE,FALSE
+1,sunny,80,90,TRUE,FALSE
+2,overcast,83,78,FALSE,TRUE
+3,rain,70,96,FALSE,TRUE
+4,rain,68,80,FALSE,TRUE
+5,rain,65,70,TRUE,FALSE
+6,overcast,64,65,TRUE,TRUE
+7,sunny,72,95,FALSE,FALSE
+8,sunny,69,70,FALSE,TRUE
+9,rain,75,80,FALSE,TRUE
+10,sunny,75,70,TRUE,TRUE
+11,overcast,72,90,TRUE,TRUE
+12,overcast,81,75,FALSE,TRUE
+13,rain,71,80,TRUE,FALSE
